@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML and AI
 - 🌱 I’m currently learning about conversational BI
 - 💞️ I’m looking to collaborate on ML and AI in education
-- 📫 I can be reached at phb2120@columbia.edu
+- 📫 I can be reached at beaperry@amazon.com
 
 <!---
 bithug01/bithug01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
